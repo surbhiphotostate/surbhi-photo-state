@@ -1,0 +1,20 @@
+SEO CHECKLIST — SURABHI PHOTO STATE
+
+Already added:
+- Search-friendly page title and meta description
+- Robots index/follow directive
+- Open Graph and Twitter sharing metadata
+- LocalBusiness / Store structured data (JSON-LD)
+- Descriptive image alt text and async image decoding
+- robots.txt
+
+Before going live:
+1. Confirm the exact shop name spelling, phone number, email and complete address. The website currently uses the details already entered in its contact section.
+2. Replace the shop address in index.html and the JSON-LD block if it is not exact.
+3. Add the final public website URL as a canonical URL and create sitemap.xml using that real domain (do not use a placeholder).
+4. Submit the sitemap in Google Search Console after deployment.
+5. Create/verify a Google Business Profile and keep its name, address, phone, hours and website consistent with the site.
+6. Use original photos and accurate service descriptions; do not add services or review ratings that cannot be verified.
+7. Make sure HTTPS is enabled on the hosting provider.
+
+Note: Meta keywords are included for reference, but major search engines generally rely more on page content, titles, links and structured data.
